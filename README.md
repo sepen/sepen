@@ -1,5 +1,6 @@
 Working on CRUX Linux, system tools, packaging, and container images.
 
+<!--
 [![arradio](https://img.shields.io/badge/arradio-181717?logo=github)](https://github.com/sepen/arradio)
 [![k8kreator](https://img.shields.io/badge/k8kreator-181717?logo=github)](https://github.com/sepen/k8kreator)
 [![vimtogo](https://img.shields.io/badge/vimtogo-181717?logo=github)](https://github.com/sepen/vimtogo)
@@ -13,6 +14,5 @@ Working on CRUX Linux, system tools, packaging, and container images.
 [![crux-ports-sepen](https://img.shields.io/badge/crux--ports--sepen-181717?logo=github)](https://github.com/sepen/crux-ports-sepen)
 [![crux-on-devices](https://img.shields.io/badge/crux--on--devices-181717?logo=github)](https://github.com/sepen/crux-on-devices)
 
-<!--
 ![sepen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sepen&show_icons=true&theme=tokyonight)
 -->

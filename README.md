@@ -1,35 +1,16 @@
-## 🧠 About me
+## 🧠 About
 
-I’m interested in **operating systems** and **computer architectures**, especially how different systems are built and how they interact with hardware.
+Interested in operating systems and computer architectures, with a focus on how systems are built and interact at a low level.
 
----
+I explore different OSes, port software across architectures, and maintain packages for **CRUX** and custom overlays.
 
-## ⚙️ What I do
+I enjoy terminal-based workflows, scripting, and minimalist tools — simple components that combine into powerful systems.
 
-- Explore a wide range of operating systems  
-- Port software across different architectures  
-- Maintain packages for **CRUX** and custom overlays  
-- Work with minimalist, terminal-first tools and scripting workflows  
-
-I like systems that stay **simple, transparent, and composable** — where small tools combine to solve complex problems.
+Retro computing is another interest: working with legacy hardware, restoration, and understanding constrained systems.
 
 ---
 
-## 🕹️ Retro computing
-
-I also enjoy retro computing:
-- Pushing old hardware to its limits  
-- Restoring and repairing legacy machines  
-- Understanding how older systems were designed under constraints  
-
-There’s always something new to discover in older technology.
-
----
-
-## 🤝 Collaboration
-
-Contributions, ideas, and improvements are always welcome.  
-Feel free to open an issue or submit a pull request.
+💡 Contributions, ideas, and improvements are always welcome — feel free to open an issue or pull request.
 
 <!--
 [![arradio](https://img.shields.io/badge/arradio-181717?logo=github)](https://github.com/sepen/arradio)

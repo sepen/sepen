@@ -1,16 +1,9 @@
-## 🧠 About
+🧠 About
+- 🖥️ Interested in operating systems and computer architectures.
+- 🛠️ Enjoy porting software across architectures and maintaining CRUX packages and custom overlays.
+- ⌨️ Prefer terminal-based workflows, scripting, and minimalist tools.
+- 💾 Passionate about retro computing, including legacy hardware restoration and constrained systems.
 
-Interested in operating systems and computer architectures, with a focus on how systems are built and interact at a low level.
-
-I explore different OSes, port software across architectures, and maintain packages for **CRUX** and custom overlays.
-
-I enjoy terminal-based workflows, scripting, and minimalist tools — simple components that combine into powerful systems.
-
-Retro computing is another interest: working with legacy hardware, restoration, and understanding constrained systems.
-
----
-
-💡 Contributions, ideas, and improvements are always welcome — feel free to open an issue or pull request.
 
 <!--
 [![arradio](https://img.shields.io/badge/arradio-181717?logo=github)](https://github.com/sepen/arradio)
